@@ -32,7 +32,7 @@ php artisan serve
 
 http://127.0.0.1:8000
 
-## Aktualizacja projectu Vue
+## Świeża instalacja Vue
 
 Koniecznie dodaj w katalogu **vue-project** aplikacji Laravel.
 
