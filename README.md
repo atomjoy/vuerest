@@ -38,7 +38,7 @@ Koniecznie dodaj w katalogu **vue-project** aplikacji Laravel.
 
 ```sh
 rm -rf vue-project
-npm init vue@latest
+npm init vue@latest vue-project
 php artisan vendor:publish --tag=vueon-config --force
 ```
 
